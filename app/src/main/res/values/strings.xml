@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map\'n\'Weather</string>
+    <string name="title_activity_main">Map\'n\'Weather</string>
+    <string name="nothing_was_found_text">Nothing was found</string>
+    <string name="weather_description">%s \nHumidity: %s %\nPressure: %s hPa</string>
+    <string name="weather_icon_description">Weather icon</string>
+    <string name="enter_your_city_name_title">Enter your city name</string>
+    <string name="find_button_title">Find</string>
+</resources>
